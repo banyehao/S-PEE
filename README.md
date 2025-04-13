@@ -1,7 +1,9 @@
 # Steganography Enhanced Prediction Error Expansion: A Novel Reversible Data Hiding Framework
 
 ## Research Overview
-This repository contains the implementation of the research paper titled "Steganography Enhanced Prediction Error Expansion: A Novel Reversible Data Hiding Framework," published in IEEE Transactions on Circuits and Systems for Video Technology, vol. 35, no. 3, pp. 2701-2711, 2025. The work explores an innovative approach to reversible data hiding, enhancing the prediction error expansion technique to achieve high embedding capacity while maintaining image quality.
+X. Li, X. Li, S. Hu and Y. Zhao, "Steganography-Enhanced Prediction-Error Expansion: A Novel Reversible Data Hiding Framework," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 35, no. 3, pp. 2701-2711, March 2025, doi: [10.1109/TCSVT.2024.3495673](https://doi.org/10.1109/TCSVT.2024.3495673).
+
+
 
 ## File Structure
 
@@ -22,7 +24,3 @@ To run the code in this repository, you will need:
 - MATLAB installed on your system.
 - Compatibility with Windows 64-bit for the precompiled STC functions.
 
-### Installation
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/reversible-data-hiding.git
